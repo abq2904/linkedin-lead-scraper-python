@@ -33,3 +33,16 @@ pip install -r requirements.txt
 
 ## 🎯 Usage
 python scraper.py --query "CTO at SaaS startups in USA" --pages 5
+
+
+📊 Output Example
+Name	Title	Company	Email
+John Doe	CTO @ScaleFast	ScaleFast	johndoe@scalefast.com
+💼 Business Use Cases
+B2B Lead Generation: Find ideal customers for your SaaS product
+
+Recruitment: Source passive candidates with specific skills
+
+Competitor Analysis: Map org structures of rival companies
+
+📌 Need a custom solution? Send me message
