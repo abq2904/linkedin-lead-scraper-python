@@ -23,8 +23,13 @@ This tool follows LinkedIn's [robots.txt](https://www.linkedin.com/robots.txt) g
 - OpenAI API (GPT-4 for data enrichment)  
 - Pandas (data cleaning)  
 
+
 ## 🛠️ Installation  
 ```bash
 git clone https://github.com/yourusername/linkedin-lead-scraper-python.git
 cd linkedin-lead-scraper-python
 pip install -r requirements.txt
+```
+
+## 🎯 Usage
+python scraper.py --query "CTO at SaaS startups in USA" --pages 5
