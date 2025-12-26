@@ -26,7 +26,7 @@ This tool follows LinkedIn's [robots.txt](https://www.linkedin.com/robots.txt) g
 
 ## 🛠️ Installation  
 ```bash
-git clone https://github.com/yourusername/linkedin-lead-scraper-python.git
+git clone https://github.com/abq2904/linkedin-lead-scraper-python.git
 cd linkedin-lead-scraper-python
 pip install -r requirements.txt
 ```
